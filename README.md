@@ -155,7 +155,6 @@ GET /api/v1/health
 - [ ] Report generation (`/api/v1/reports`)
 - [ ] JWT authentication
 
-
 SentinelFuzz Pro is a cybersecurity fuzzing platform. This project represents the core foundation of the backend system.
 
 ## Project Setup Instructions
